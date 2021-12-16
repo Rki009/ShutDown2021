@@ -1,4 +1,4 @@
-![Screen Shot](screenshot.png)
+![Screen Shot](./screenshot.png?raw=true "Screen Shot")
 
 # ShutDown 2021
 
