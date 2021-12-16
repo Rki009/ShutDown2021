@@ -7,8 +7,9 @@ ShutDown 2021 - a small Windows app to speed shutdown selection
 ## Installation
 
 Build with  C++ Builder 10.4
+OR just use the included *.exe file
 
-Add a shortcut to your Desktop or TaskBar
+Add a shortcut to your Desktop or TaskBar and have a fast escape from Windows!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
