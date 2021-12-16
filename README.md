@@ -1,4 +1,4 @@
-![Screen Shot](./screenshot.png?raw=true "Screen Shot")
+![Screen Shot](https://github.com/Rki009/ShutDown2021/raw/master/ScreenShot.png?raw=true "Screen Shot")
 
 # ShutDown 2021
 
